@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is Minh Vu's COSC2083-Intro to IT Assigment 2.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://duplominh.github.io/COSC2083-ASM2/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: minhduplo
+twitter_username: DuploMinh
 github_username:  DuploMinh
 
 # Build settings
