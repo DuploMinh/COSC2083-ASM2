@@ -1,7 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title:  "2. Tools"
+date:   2021-08-17 11:59:59 +0700
+categories: jekyll update
 ---
 
 [Website link](https://duplominh.github.io/COSC2083-ASM2/)
