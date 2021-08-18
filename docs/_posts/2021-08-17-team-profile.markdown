@@ -8,4 +8,4 @@ categories: jekyll update
 I have decided to name my team” Tekno”. I chose this name as this seems to be futuristic and foreign and is seems to be related to technology.
 
 # Team profile
-![Learning Style Test](https://github.com/DuploMinh/COSC2083-ASM2/blob/main/docs/assets/Picture1.png)
+[Learning Style Test](https://github.com/DuploMinh/COSC2083-ASM2/blob/main/docs/assets/Picture1.png)
