@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "5. IT Technology"
+date:   2021-08-17 05:59:00 +0700
+categories: jekyll update
+---
