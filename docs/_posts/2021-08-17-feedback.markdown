@@ -4,3 +4,14 @@ title:  "4. Feedback"
 date:   2021-08-17 08:59:00 +0700
 categories: jekyll update
 ---
+# Feedback
+
+## Feedback 1:
+
+>“The project proposal seems to have explained well the intention of the project. However, some technical part should have been elaborated more on and some keyword should have been better explained. Also, maybe you should include a business model for your project”
+
+## Feedback 2:
+
+>“I think overall the idea presented here is fine. However, I question the feasibility of the project as many of the technical aspect seems to be complicated and it is not thoroughly explained how he is going to overcome the technical challenges.”
+
+I think the feedback that I received here are completely valid and constructive. I do think that I could explain the technical terms in my project proposal a bit more. However, I could justify for some of my choices in the proposal. One of the points of the first feedback is that I could have included a business plan in my project. For this, the reason that I have not included a business plan or model for my project is that I believe this is not included in the requirement of the exercise to include a business model or how I am going to monetize this project. Including this should be easy as with how the project is proposed I could include this by selling the access to the service or application. For the technical aspect and how it might be not feasible. For this, I believe that the framework that I have chosen is quite adaptable to different language and it has been done by different teams with minimal adjustment to the underlying model. As I don’t have to modify the model, I will not need a too great understanding of NLP. Therefore, I think that I can execute this project.
